@@ -1,6 +1,6 @@
 # Subscription-Tracker
 
-Subscription & Payment Tracking System (Milestone 2)
+Subscription & Payment Tracking System 
 
 End-to-end mini data platform for managing subscriptions, payments, and user notifications on PostgreSQL, with a simple Streamlit UI for running SQL queries. It includes a relational schema, database load scripts, cleaned/transformed CSVs, and a preprocessing notebook.
 
